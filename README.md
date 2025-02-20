@@ -1,0 +1,1 @@
+La aplicación "Canvas v0.1" permite a los usuarios dibujar sobre un lienzo en blanco y guardar su dibujo en formato JPG o limpiarlo con un solo clic. Es ideal para realizar bocetos rápidos y almacenar creaciones artísticas en el dispositivo.
